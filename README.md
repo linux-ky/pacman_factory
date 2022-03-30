@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [How to Run](#how-to-run)
 
 ## General info
 Let's Make Unlimited Pacmen!
