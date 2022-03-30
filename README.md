@@ -12,6 +12,7 @@ Project is created with:
 * Node JS 16.14.2
 * HTML 5
 * CSS
+* JavaScript ES6
 	
 ## Setup
 To run this project, clone this code to your local machine:
