@@ -23,5 +23,5 @@ Load the index.html file into your browser.
 * Press "Add PACMAN"
 * Press "Start Game"
 
-![Pacman Factory](assets/img/portfolio/Pacman_game.png?raw=true "Pacman Factory")
+![Pacman Factory](images/Pacman_game.png?raw=true "Pacman Factory")
 
